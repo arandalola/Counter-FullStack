@@ -1,2 +1,1 @@
-# Counter-FullStack
-# Counter-FullStack
+Counter realizado con Javascript y conectado a MongoDB.
